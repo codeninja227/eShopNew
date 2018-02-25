@@ -1,2 +1,2 @@
 # eShopNew
-play with git
+Pley with GIT . Baby step towards open source contribution.
